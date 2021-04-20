@@ -1,6 +1,6 @@
 # Learn-Docker-and-Kubernetes-in-6-Days
 
-### Docker-and-Kubernetes-in-6-days its possible only we believe in our self.
+#### Docker-and-Kubernetes-in-6-days its possible only we believe in our self.
 
 This is the Curriculum for "Docker and Kubernetes in 6 days" by Vishwas Narayan 
 
